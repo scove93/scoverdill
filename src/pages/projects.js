@@ -27,34 +27,23 @@ const projectProject = {
 //Project 1
 
 const project1 = {
-  title: "Cool React app",
-  date: "2019-03-28",
+  title: "Tech News API",
+  date: "2019-04-15",
   decription:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quaerat enim amet voluptatum, aut quisquam a, veritatis dolores odit adipisci corrupti tenetur optio. Aliquam incidunt dolor laborum tempore officia obcaecati.",
-  sourceURL: "https://github.com",
-  hostedURL: "http://www.google.com",
+    "React.js app using newsapi.org",
+  sourceURL: "https://codepen.io/scove93/pen/zXjJdz",
+  hostedURL: "https://codepen.io/scove93/pen/zXjJdzm",
 }
 
 //Project 2
 
 const project2 = {
-  title: "Project 2 title",
+  title: "Dream Dogs",
   date: "2019-03-03",
   decription:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quaerat enim amet voluptatum, aut quisquam a, veritatis dolores odit adipisci corrupti tenetur optio. Aliquam incidunt dolor laborum tempore officia obcaecati.",
-  sourceURL: "https://github.com/",
-  hostedURL: "https://www.google.com",
-}
-
-//Project 3
-
-const project3 = {
-  title: "Project 3 title",
-  date: "2019-02-12",
-  decription:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quaerat enim amet voluptatum, aut quisquam a, veritatis dolores odit adipisci corrupti tenetur optio. Aliquam incidunt dolor laborum tempore officia obcaecati.",
-  sourceURL: "https://github.com/",
-  hostedURL: "https://www.google.com",
+    "Responsive flexbox small business landing page",
+  sourceURL: "https://codepen.io/scove93/pen/rbNvOy",
+  hostedURL: "https://codepen.io/scove93/pen/rbNvOy",
 }
 
 export default () => (
@@ -101,18 +90,6 @@ export default () => (
               description={project2.decription}
               sourceURL={project2.sourceURL}
               hostedURL={project2.hostedURL}
-            />
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <ProjectCard
-              imageSrcPath={project3Picture}
-              title={project3.title}
-              date={project3.date}
-              description={project3.decription}
-              sourceURL={project3.sourceURL}
-              hostedURL={project3.hostedURL}
             />
           </Col>
         </Row>

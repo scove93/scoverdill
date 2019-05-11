@@ -35,8 +35,7 @@ const Summary = () => (
     <br />
 
     <h4 className="goal_text text-center">
-      My biggest goal as an Engineer is to never stop learning, and work on cool
-      stuff. Here's a couple of things I'm good at:
+      As a Front End Developer, I'm interested in software architecture, specifically in modular and scalable design and development
     </h4>
     <Row style={{ marginTop: "1.8rem" }}>
       <Col>

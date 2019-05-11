@@ -11,15 +11,14 @@ const Footer = () => (
     <Container style={{ maxWidth: "960px" }}>
       <Row>
         <Col>
-          <h3>John Doe</h3>
+          <h3>Sean Coverdill</h3>
           <p style={{ color: "blueviolet", fontSize: "1.3rem" }}>
             {/*TODO: ADD A MAILTO-LINK */}
-            john.doe@gmail.com
+            seancoverdill@gmail.com
           </p>
           <br />
           <p style={{ fontSize: "1.3rem" }}>
-            I'm a great developer that loves to code. I can help you grow your
-            next product.
+            Self-taught developer with strong foundation in Responsive Design 
           </p>
         </Col>
       </Row>
@@ -58,7 +57,7 @@ const Footer = () => (
       <Row className="footer_social text-center">
         <Col>
           <a
-            href="https://www.github.com/"
+            href="https://github.com/scove93"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -67,7 +66,7 @@ const Footer = () => (
         </Col>
         <Col>
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/sean-coverdill-507388178/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -86,16 +85,6 @@ const Footer = () => (
 
         <Col>
           <a
-            href="https://www.instagram.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fab fa-instagram hover_effect" />
-          </a>
-        </Col>
-
-        <Col>
-          <a
             className="hover_effect"
             href="https://www.hackerrank.com/"
             target="_blank"
@@ -104,26 +93,15 @@ const Footer = () => (
             <i className="fab fa-hackerrank hover_effect" />
           </a>
         </Col>
-        <Col>
-          <a href="https://angel.co/" target="_blank" rel="noopener noreferrer">
-            <i className="fab fa-angellist hover_effect" />
-          </a>
-        </Col>
+        
       </Row>
       <Row className="text-center" style={{ marginTop: "3rem" }}>
         <Col>
-          John Doe © {new Date().getFullYear()}, Built with
-          <i
-            className="fas fa-mug-hot"
-            style={{
-              marginLeft: "10px",
-              marginRight: "3px",
-              fontSize: "1.5rem",
-            }}
-          />
+          Sean Coverdill © {new Date().getFullYear()}, Built with
+          
           <a href="https://www.gatsbyjs.org">
             {" "}
-            <span className="blueViolet">& Gatsby</span>
+            <span className="blueViolet">Gatsby</span>
           </a>
         </Col>
       </Row>

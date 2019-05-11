@@ -15,12 +15,11 @@ const MyNavbar = () => (
     >
       <ul className="nav_styles">
         <li className="float_left">
-          <i className="fas fa-frog" />
         </li>
         <li className="float_right">
           {/* eslint-disable-next-line */}
           <a
-            href="https://www.github.com/"
+            href="https://github.com/scove93"
             target="_blank"
             rel="noopener noreferrer"
             className="menu_link"
