@@ -67,23 +67,19 @@ export default () => (
         {/* SW intern Position*/}
         <Row>
           <Col>
-            <h5>Software Engineer Intern</h5>
+            <h5>freeCodeCamp</h5>
           </Col>
         </Row>
         <Row>
-          <Col>Mip Mip Co LTD, Roadrunner City, US&A</Col>
-          <Col>2014.06 - 2014.09</Col>
+          <Col>Full Stack Development Certificate (in progress)</Col>
         </Row>
-        <Row>
-          <Col>
-            <p style={{ marginTop: "1rem" }}>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-              ullam eius nihil porro itaque nobis facere. Impedit eos minima
-              porro. Culpa, laboriosam! Qui quo provident aperiam et ullam odio
-              ex.
-            </p>
-          </Col>
-        </Row>
+        <ul>
+          <li>Responsive Web Design Certification (300 hours) -- Completed</li>
+          <li>JavaScript Algorithims and Data Structures Certification (300 hours) -- Completed</li>
+          <li>Front End Libraries Certification (300 hours) -- In Progress</li>
+          <li>Data Visualization Certification (300 hours) -- In Progress</li>
+          <li>Apis and Microservices Certification (300 hours) -- In Progress</li>
+        </ul>
         <hr />
         {/* This is the beginning of the education section*/}
         <Row>
@@ -105,7 +101,7 @@ export default () => (
           <Col>
             <p style={{ marginTop: "1rem" }}>
               <strong>Specialization:</strong>
-              <br /> 19th Century American Literature, Digital Media
+              <br />19th Century American Literature, Digital Media
             </p>
           </Col>
         </Row>

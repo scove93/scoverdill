@@ -55,7 +55,7 @@ export default () => (
     */}
       <MyJumbo
         title={"Projects Portfolio"}
-        body={"I think the best way of learning is by building Stuff."}
+        body={"Sample work from Codepen"}
       />
       <hr />
 

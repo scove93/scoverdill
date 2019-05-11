@@ -25,27 +25,6 @@ export default () => (
         <i className="fab fa-linkedin hover_effect" />
       </a>
     </Col>
-    <Col>
-      <a
-        style={{ color: "#000" }}
-        href="https://twitter.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <i className="fab fa-twitter hover_effect" />
-      </a>
-    </Col>
-
-    <Col>
-      <a
-        style={{ color: "#000" }}
-        href="https://www.instagram.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <i className="fab fa-instagram hover_effect" />
-      </a>
-    </Col>
 
     <Col>
       <a
