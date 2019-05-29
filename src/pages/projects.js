@@ -27,6 +27,28 @@ const projectProject = {
 //Project 1
 
 const project1 = {
+  title: "Literary Character Profiles",
+  date: "2019-04-15",
+  decription:
+    "A Node.js website with Express and Pug that displays famous nineteenth century literary characters. ",
+  sourceURL: "https://github.com/scove93/literary-character-app",
+  hostedURL: "https://https://scove93.github.io/literary-character-app/",
+}
+
+//Project 2
+
+const project2 = {
+  title: "Weather Scanner",
+  date: "2019-04-15",
+  decription:
+    "A React.js project that uses stateless functional components and openweathermap api",
+  sourceURL: "https://github.com/scove93/weather-scanner/",
+  hostedURL: "https://scove93.github.io/weather-scanner/",
+}
+
+//Project 3
+
+const project3 = {
   title: "Tech News API",
   date: "2019-04-15",
   decription:
@@ -35,9 +57,9 @@ const project1 = {
   hostedURL: "https://codepen.io/scove93/pen/zXjJdzm",
 }
 
-//Project 2
+//Project 4
 
-const project2 = {
+const project4 = {
   title: "Dream Dogs",
   date: "2019-03-03",
   decription:

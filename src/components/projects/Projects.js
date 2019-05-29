@@ -20,13 +20,13 @@ const Projects = () => (
       //hostedURL: URL to the hosted version of the app*/}
       <ProjectCard
         imageSrcPath={image}
-        title={"Codepen Portfolio"}
+        title={"Literary Character Portfolio"}
         date={"2019-05-11"}
         description={
-          "See a collection of my latest work on Codepen."
+          "See more samples of my latest work."
         }
-        sourceURL={"https://codepen.io/scove93/"}
-        hostedURL={"http://www.google.com"}
+        sourceURL={"https://github.com/scove93/literary-character-app"}
+        hostedURL={"https://scove93.github.io/literary-character-app/"}
       />
       <Link to="/projects" className="blueViolet">
         Go to Projects page ---->
