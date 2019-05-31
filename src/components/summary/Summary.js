@@ -39,51 +39,25 @@ const Summary = () => (
     </h4>
     <Row style={{ marginTop: "1.8rem" }}>
       <Col>
-        <h4 className="hover_effect">Tagline1</h4>
+        <h4 className="hover_effect">CSS Architecture</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Exercitationem quod maiores maxime suscipit assumenda vitae, incidunt
-          doloremque ab voluptate, atque explicabo ea adipisci. Et quibusdam
-          odit expedita quis officia minima!
+          Experienced with a variety of CSS architecture systems, inluding BEM, CSS-in-JS, and CSS Modules
         </p>
       </Col>
       <Col>
-        <h4 className="hover_effect">Tagline2</h4>
+        <h4 className="hover_effect">JAMstack and MERN stack</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, modi
-          reiciendis. Placeat quia facilis neque, corporis ullam maiores eaque
-          quos autem voluptatibus, minus totam animi quo sint ea, atque sit?
-        </p>
+          Proficient building scalable web apps with SSG's, such as Gatsby, deploying with Netlify, and headless CMS systems, including NetlifyCMS, Contentful, and Sanity.  
       </Col>
     </Row>
     <br />
     <Row>
       <Col>
-        <h4 className="hover_effect">Tagline3</h4>
+        <h4 className="hover_effect">Component Driven Design</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint,
-          consequuntur. Ipsum deserunt veniam molestias odio rerum repudiandae
-          officia quasi magnam at sint, amet commodi ad quisquam explicabo ab
-          quia saepe?
+          Well-versed in developing modular and scalable web apps with React and UI libaries, including Bit.
         </p>
       </Col>
-      <Col>
-        <h4 className="hover_effect">Tagline4</h4>
-        <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis
-          excepturi odio illum accusamus eum optio voluptatum corporis beatae
-          impedit, molestias maxime obcaecati totam maiores eius voluptate ex
-          animi minus aperiam!
-        </p>
-      </Col>
-    </Row>
-    <br />
-    <h4 className="goal_text text-center">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quidem
-      praesentium tenetur blanditiis repellendus facilis maiores ducimus cumque,
-      nesciunt nulla non ad excepturi magni eveniet voluptatum numquam libero
-      error mollitia.
-    </h4>
   </Container>
 )
 

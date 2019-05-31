@@ -6,8 +6,8 @@ import ProjectCard from "../components/portProjectCard/ProjectCard"
 
 import "./index.css"
 
-import project1Picture from "../images/portfolio/cabin.png"
-import project2Picture from "../images/portfolio/cake.png"
+import project1Picture from "../images/portfolio/lit.png"
+import project2Picture from "../images/portfolio/scanner.png"
 import project3Picture from "../images/portfolio/game.png"
 
 /*######### PROJECT OBJECTS TEMPLATE################
